@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm M.Meghana 👋<br><br>Aspiring Data Analyst | B.Tech Computer Science Engineering Student.<br>I enjoy transforming raw data into meaningful insights through data cleaning, analysis, visualization, and automation. My GitHub showcases projects that focus on solving real-world business problems using Python, SQL, Excel, Power BI, and Streamlit.<br><br>### 🛠️ Tech Stack<br><br>Languages: Python, SQL<br>Libraries: Pandas, NumPy, Matplotlib<br>Tools: Power BI, Excel, Git, GitHub, VS Code, Streamlit<br><br>### 🌱 Currently Learning<br><br>* Advanced SQL<br>* Power BI<br>* Business Intelligence<br>* Data Storytelling<br><br>### 🎯 Career Goal<br><br>To start my career as a Data Analyst and use data to solve business problems, support decision-making, and continuously grow as a data professional.<br><br>"Data reveals possibilities. Analysis turns them into decisions."*<br>
+# Hi, I'm M. Meghana 👋<br>Aspiring Data Analyst | B.Tech Computer Science Engineering Student**<br><br>I'm passionate about turning data into meaningful insights through analysis and visualization. My GitHub features projects where I use Python, SQL, Excel, Power BI, and Streamlit to solve real-world problems and strengthen my data analytics skills.<br><br>### 🛠️ Tech Stack<br><br>Languages: Python, SQL<br>Libraries: Pandas, NumPy, Matplotlib<br>Tools: Excel, Power BI, Git, GitHub, VS Code, Streamlit<br><br>### 🌱 Currently Learning<br><br>* Advanced SQL<br>* Power BI<br>* Business Intelligence<br>* Data Storytelling<br><br>### 🎯 Career Goal<br><br>To start my career as a Data Analyst and use data to support better business decisions while continuously learning and growing.<br><br>"Turning data into insights, one project at a time."*<br>
 
 
 ## 🌐 Socials:
@@ -14,4 +14,6 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=MMeghana8&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
